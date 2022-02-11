@@ -1,4 +1,11 @@
-<svg width="405" height="210" viewBox="0 0 405 210" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+<svg width="605" height="410" viewBox="0 0 405 210" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+      <style type = "text/css">
+  .text-log{
+      font-family: monospace;
+  }
+  </style>
+  </defs>
   <path d="M349.773.572H79.213V174.45h270.56V.572Z"/>
   <path d="M349.201 1.143v172.736H79.785V1.143h269.416ZM350.344 0H78.642v175.021h271.702V0Zm4.813 0h-4.813v175.021h4.813a3.3 3.3 0 0 0 3.3-3.3V3.301a3.3 3.3 0 0 0-3.3-3.3Z" fill="#000"/>
   <path d="M337.159 11.44H92.771v151.054h244.388V11.439Zm-7.063 183.825H19.298a15.639 15.639 0 0 1-14.496-9.781L.226 174.15h349.971l-4.295 10.502a17.08 17.08 0 0 1-15.806 10.613Z" fill="#000"/>
@@ -18,7 +25,7 @@
   <path d="M177.134 95.038h53.035" stroke="url(#e)" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M250.542 94.391h21.343" stroke="url(#f)" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M109.871 111.746h22.313" stroke="#1a73e8" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="120" y="40" style="font-family:'monospace'">OctSSH</text>
+  <text class = "text-log" x="140" y="40">OctSSH Code Server </text>
   <defs>
     <linearGradient id="b" x1="241.972" y1="60.652" x2="241.972" y2="61.652" gradientUnits="userSpaceOnUse">
       <stop stop-color="#02F064"/>

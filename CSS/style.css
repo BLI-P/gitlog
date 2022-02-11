@@ -1708,6 +1708,7 @@ textarea.w-select {
   display: inline-block;
   padding-bottom: inherit;
 }
+
 .w-richtext figure.w-richtext-align-fullwidth > figcaption {
   display: block;
 }
