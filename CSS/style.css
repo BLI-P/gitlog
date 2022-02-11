@@ -1,25 +1,25 @@
 @font-face {
-    font-family: "Console";
-    src: url("fonts/font.woff");
+  font-family: "Console";
+  src: url("fonts/font.woff");
 }
 @font-face {
   font-family: "CodeX";
   src: url("fonts/codex.woff");
 }
-.list-none{
-  font-family: 'CodeX';
+.list-none {
+  font-family: "CodeX";
   font-weight: 900;
 }
-*{
-    font-family: "Console";
+* {
+  font-family: "Console";
 }
 nav li a {
   font-weight: 900;
 }
-.console-log{
+.console-log {
   padding-bottom: 10px;
 }
-.console-log:hover{
+.console-log:hover {
   color: #fff;
 }
 .console-log a {
@@ -2257,9 +2257,9 @@ textarea.w-select {
   -ms-flex-align: center;
   align-items: center;
 }
-.link-head{
-    color: #808080;
-    font-weight: 900;
+.link-head {
+  color: #808080;
+  font-weight: 900;
 }
 
 .text-block {

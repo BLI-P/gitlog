@@ -1,0 +1,44 @@
+<svg width="405" height="210" viewBox="0 0 405 210" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+  <path d="M349.773.572H79.213V174.45h270.56V.572Z"/>
+  <path d="M349.201 1.143v172.736H79.785V1.143h269.416ZM350.344 0H78.642v175.021h271.702V0Zm4.813 0h-4.813v175.021h4.813a3.3 3.3 0 0 0 3.3-3.3V3.301a3.3 3.3 0 0 0-3.3-3.3Z" fill="#000"/>
+  <path d="M337.159 11.44H92.771v151.054h244.388V11.439Zm-7.063 183.825H19.298a15.639 15.639 0 0 1-14.496-9.781L.226 174.15h349.971l-4.295 10.502a17.08 17.08 0 0 1-15.806 10.613Z" fill="#000"/>
+  <mask id="a" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="92" y="11" width="246" height="152">
+    <path d="M337.159 11.44H92.771v151.054h244.388V11.439Z" fill="#000"/>
+  </mask>
+  <g mask="url(#a)">
+    <path d="M75.251 148.654c94.345 0 170.827-76.482 170.827-170.827S169.596-193 75.251-193-95.576-116.518-95.576-22.173s76.482 170.827 170.827 170.827Z" fill="#121212"/>
+  </g>
+   <path d="M90.876 43.042h248.87" stroke="#fff" stroke-miterlimit="10"/>
+  <path d="m133.376 173.881 1.696 4.522a3.122 3.122 0 0 0 2.925 2.028h51.219a2.588 2.588 0 0 0 2.339-1.48l2.406-5.07h-60.585Z" fill="url(#b)"/>
+  <path d="M109.871 60.652h106.716" stroke="#909090" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230.169 60.652h23.606" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109.871 78.007h76.641" stroke="#1a73e8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M204.298 77.36h80.199" stroke="url(#c)" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109.871 94.715h51.741" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M177.134 95.038h53.035" stroke="url(#e)" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250.542 94.391h21.343" stroke="url(#f)" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109.871 111.746h22.313" stroke="#1a73e8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="40" style="font-family:'monospace'">OctSSH</text>
+  <defs>
+    <linearGradient id="b" x1="241.972" y1="60.652" x2="241.972" y2="61.652" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02F064"/>
+      <stop offset="1" stop-color="#41FED4"/>
+    </linearGradient>
+    <linearGradient id="c" x1="244.397" y1="77.36" x2="244.397" y2="78.36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02F064"/>
+      <stop offset="1" stop-color="#41FED4"/>
+    </linearGradient>
+    <linearGradient id="d" x1="135.741" y1="94.715" x2="135.741" y2="95.715" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02F064"/>
+      <stop offset="1" stop-color="#41FED4"/>
+    </linearGradient>
+    <linearGradient id="e" x1="203.651" y1="95.038" x2="203.651" y2="96.038" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02F064"/>
+      <stop offset="1" stop-color="#41FED4"/>
+    </linearGradient>
+    <linearGradient id="f" x1="261.213" y1="94.391" x2="261.213" y2="95.391" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02F064"/>
+      <stop offset="1" stop-color="#41FED4"/>
+    </linearGradient>
+  </defs>
+</svg>
