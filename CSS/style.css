@@ -3000,6 +3000,22 @@ textarea.w-select {
   font-size: 9rem;
   font-weight: 900;
 }
+.consolebase{
+  background-size: cover;
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  color: #fff;
+  font-size: 9rem;
+  font-weight: 900;
+  white-space: nowrap;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.consolebase{
+  background-image: url('svg/text.gif');
+}
 
 .heading-6 {
   margin-top: 20px;
@@ -3540,6 +3556,8 @@ textarea.w-select {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  margin: auto;
+  max-width: 90%;
 }
 
 .link-block-7 {
@@ -4513,6 +4531,7 @@ textarea.w-select {
     -ms-flex-align: center;
     align-items: center;
   }
+  
 
   .div-block-43 {
     display: none;
@@ -5838,4 +5857,7 @@ textarea.w-select {
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+}
+.console-error{
+  margin-top: -50px;
 }
